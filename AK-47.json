@@ -1,0 +1,15 @@
+{
+  "name": "AK-47 | Redline",
+  "description": "A custom painted AK-47 skin from CS:GO.",
+  "image": "https://raw.githubusercontent.com/BubbleDoge/Page/Test-2/images.jfif",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Weapon Skin"
+    }
+  ]
+}
