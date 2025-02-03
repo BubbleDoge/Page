@@ -1,6 +1,5 @@
 {
-    "name": "AIMONK",
-    "symbol": "AIM",
-    "description": "Example token from Solana Making a Token guide.",
-    "image": "https://avatars.githubusercontent.com/u/96500369?v=4"
-  }
+  "name": "AI Monkey",
+  "symbol": "AIMONK",
+  "uri": "https://avatars.githubusercontent.com/u/96500369?v=4"
+}
